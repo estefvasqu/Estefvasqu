@@ -7,5 +7,5 @@
 - 🚀 **Proyectos Destacados:**
   - Desarrollo de scripts en Python y R para la automatización de análisis de datos.
   - Creación de monitores interactivos en Power BI para toma de decisiones rápidas.
-- 🎓 **Siempre Aprendiendo:** Me mantengo actualizado con las últimas tendencias en análisis de datos y automatización. 
+- 🎓 **Siempre Aprendiendo:** Me mantengo actualizada con las últimas tendencias en análisis de datos y automatización. 
 - 🌟 **Filosofía:** Resolver problemas complejos con soluciones simples y eficientes.
